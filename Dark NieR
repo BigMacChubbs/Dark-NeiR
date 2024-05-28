@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="https://BigMacChubbs.github.io/style.css">
 @keyframes pulsingBackground {
   0% {
     background-color: var(--color-low);
